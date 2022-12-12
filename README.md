@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # jsdiff
 
 [![Build Status](https://secure.travis-ci.org/kpdecker/jsdiff.png)](http://travis-ci.org/kpdecker/jsdiff)
